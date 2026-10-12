@@ -18,3 +18,8 @@ Open a Pull Request (PR): Push your changes and open a Pull Request to merge you
 Merge the PR: Finally, merge your own Pull Request so that the main branch is updated with your new code.
 
  Why are we doing this? (A Quick Example): Imagine you are working on a project with a team. The main branch is the stable, final version of your project. If you want to add a "new feature", you don't edit the main code directly. Instead, you create a side branch, add your code, and ask your team to review it via a Pull Request. Once approved, your code is merged into the main project. This is exactly the workflow you are practicing today!
+
+
+##new text##
+## About This Task
+This repository is for my Lab 2 task. I am practicing the GitHub workflow: branching, committing, and pull requests.
